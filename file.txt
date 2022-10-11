@@ -11,5 +11,7 @@
 
       margin: 20px;
 
+      opacity: 30;
+
 </body>
 </html>
