@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 this is my feature branch 1 which create for project for sumit 
-=======
+
 sumit
->>>>>>> 141a0a3763216b85a94ff8452f6a7c352bd31a4b
+
